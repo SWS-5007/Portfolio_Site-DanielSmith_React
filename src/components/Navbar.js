@@ -11,6 +11,7 @@ function Navbar() {
                 <ul className="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                     <li className="nav-item"><a className="nav-link" href="#root">Home</a></li>
                     <li className="nav-item"><a className="nav-link" href="#about">About Me</a></li>
+                    <li className="nav-item"><a className="nav-link" href="#skills">Skill</a></li>
                     <li className="nav-item"><a className="nav-link" href="#portfolio">Company</a></li>
                     <li className="nav-item"><a className="nav-link" href="#testimonial">Testimonial</a></li>
                     <li className="nav-item"><a className="nav-link" href="#contact">Contact</a></li>

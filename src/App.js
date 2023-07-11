@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import Masthead from "./components/Masthead";
 import AboutMe from "./components/AboutMe";
+import Skill from "./components/Skill";
 import Company from "./components/Company";
 import Testimonial from "./components/Testimonial";
 import Contact from "./components/Contact";
@@ -12,6 +13,7 @@ function App() {
       <Navbar />
       <Masthead />
       <AboutMe />
+      <Skill />
       <Company />
       <Testimonial />
       <Contact />
