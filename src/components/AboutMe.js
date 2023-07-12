@@ -29,7 +29,7 @@ function AboutMe() {
                         <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="..." /></div>
                         <div className="timeline-panel">
                             <div className="timeline-heading">
-                                <h4>10/2018-01/2020</h4>
+                                <h4>10/2018-12/2019</h4>
                                 <h4 className="subheading">Full-Stack Developer in Divio</h4>
                             </div>
                             <div className="timeline-body">
@@ -44,8 +44,23 @@ function AboutMe() {
                         <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/3.jpg" alt="..." /></div>
                         <div className="timeline-panel">
                             <div className="timeline-heading">
-                                <h4>02/2020-12/2021</h4>
-                                <h4 className="subheading">Jr. DevOps Engineer in dctrl</h4>
+                                <h4>12/2019-09/2020</h4>
+                                <h4 className="subheading">Software Engineer in Pixels Trade</h4>
+                            </div>
+                            <div className="timeline-body">
+                                <p className="text-muted"> - Developed 26 web apps for multiple clients, providing a wide range of functionality and tools enabling mission-critical processes.</p>
+                                <p className="text-muted"> - Provided priority one customer support for incidents and bug fixes, maintaining a 99% SLA for response and resolution times.</p>
+                                <p className="text-muted"> - Implemented dependency injection for over 200 modules in C# and Angular code.</p>
+                                <p className="text-muted"> - Led 17 successful (on schedule and budget) agile development projects for clients.</p>
+                            </div>
+                        </div>
+                    </li>
+                    <li className="timeline-inverted">
+                        <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/4.jpg" alt="..." /></div>
+                        <div className="timeline-panel">
+                            <div className="timeline-heading">
+                                <h4>10/2020-12/2021</h4>
+                                <h4 className="subheading">DevOps Engineer in dctrl</h4>
                             </div>
                             <div className="timeline-body">
                                 <p className="text-muted"> - Developed and maintained scripts to automate system administration tasks, reducing manual workload by 50% and increasing team efficiency by 20%.</p>
@@ -54,8 +69,8 @@ function AboutMe() {
                             </div>
                         </div>
                     </li>
-                    <li className="timeline-inverted">
-                        <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/4.jpg" alt="..." /></div>
+                    <li>
+                        <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/5.jpg" alt="..." /></div>
                         <div className="timeline-panel">
                             <div className="timeline-heading">
                                 <h4>01/2022-05/2023</h4>
