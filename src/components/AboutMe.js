@@ -16,12 +16,12 @@ function AboutMe() {
                         <div className="timeline-panel">
                             <div className="timeline-heading">
                                 <h4>04/2014-08/2018</h4>
-                                <h4 className="subheading">Student in University of Bern</h4>
+                                <h4 className="subheading">Student in University of Toronto</h4>
                             </div>
                             <div className="timeline-body">
-                                <p className="text-muted"> - University of Bern</p>
+                                <p className="text-muted"> - University of Toronto</p>
                                 <p className="text-muted"> - Bachelor's degree in Computer Science</p>
-                                <p className="text-muted"> - 3.9 GPA</p>
+                                <p className="text-muted"> - 3.8 GPA</p>
                             </div>
                         </div>
                     </li>
@@ -30,7 +30,7 @@ function AboutMe() {
                         <div className="timeline-panel">
                             <div className="timeline-heading">
                                 <h4>10/2018-12/2019</h4>
-                                <h4 className="subheading">Full-Stack Developer in Divio</h4>
+                                <h4 className="subheading">Full-Stack Developer in Digitalya</h4>
                             </div>
                             <div className="timeline-body">
                                 <p className="text-muted"> - Increased company revenue by 30% within 2 months after developing and  implementing business logic for over 20 features.</p>
@@ -60,7 +60,7 @@ function AboutMe() {
                         <div className="timeline-panel">
                             <div className="timeline-heading">
                                 <h4>10/2020-12/2021</h4>
-                                <h4 className="subheading">DevOps Engineer in dctrl</h4>
+                                <h4 className="subheading">DevOps Engineer in Sogeti</h4>
                             </div>
                             <div className="timeline-body">
                                 <p className="text-muted"> - Developed and maintained scripts to automate system administration tasks, reducing manual workload by 50% and increasing team efficiency by 20%.</p>
@@ -74,7 +74,7 @@ function AboutMe() {
                         <div className="timeline-panel">
                             <div className="timeline-heading">
                                 <h4>01/2022-05/2023</h4>
-                                <h4 className="subheading">Sr. DevOps Engineer in astarios</h4>
+                                <h4 className="subheading">Sr. DevOps Engineer in Digitalis</h4>
                             </div>
                             <div className="timeline-body">
                                 <p className="text-muted"> - Developed and implemented a CI/CD pipeline for a new application, reducing deployment time by 50% and increasing team productivity by 25%.</p>
