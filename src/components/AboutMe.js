@@ -74,7 +74,7 @@ function AboutMe() {
                         <div className="timeline-panel">
                             <div className="timeline-heading">
                                 <h4>01/2022-05/2023</h4>
-                                <h4 className="subheading">Sr. DevOps Engineer in Digitalis</h4>
+                                <h4 className="subheading">DevOps Engineer in Digitalis</h4>
                             </div>
                             <div className="timeline-body">
                                 <p className="text-muted"> - Developed and implemented a CI/CD pipeline for a new application, reducing deployment time by 50% and increasing team productivity by 25%.</p>
