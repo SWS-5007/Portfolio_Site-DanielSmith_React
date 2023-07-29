@@ -3,6 +3,7 @@ import Masthead from "./components/Masthead";
 import AboutMe from "./components/AboutMe";
 import Skill from "./components/Skill";
 import Company from "./components/Company";
+import Portfolio from "./components/Portfolio";
 import Testimonial from "./components/Testimonial";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
@@ -15,6 +16,7 @@ function App() {
       <AboutMe />
       <Skill />
       <Company />
+      <Portfolio />
       <Testimonial />
       <Contact />
       <Footer />
