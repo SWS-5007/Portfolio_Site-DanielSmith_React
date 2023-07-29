@@ -30,7 +30,8 @@ function Portfolio() {
               <div className="portfolio-caption">
                 <div className="portfolio-caption-heading">Trading Bots</div>
                 <div className="portfolio-caption-subheading text-muted">
-                  Illustration
+                  Containerization, Continuous Integration and Deployment
+                  Pipeline for Web application
                 </div>
               </div>
             </div>
@@ -56,7 +57,8 @@ function Portfolio() {
               <div className="portfolio-caption">
                 <div className="portfolio-caption-heading">DocsGPT</div>
                 <div className="portfolio-caption-subheading text-muted">
-                  Graphic Design
+                  Dockerized Web Application Deployment and using Infrastructure
+                  as Code
                 </div>
               </div>
             </div>
@@ -66,7 +68,7 @@ function Portfolio() {
               <a
                 className="portfolio-link"
                 data-bs-toggle="modal"
-                href="#wazeModal"
+                href="#kwentaModal"
               >
                 <div className="portfolio-hover">
                   <div className="portfolio-hover-content">
@@ -75,14 +77,15 @@ function Portfolio() {
                 </div>
                 <img
                   className="img-fluid"
-                  src="assets/img/portfolio/waze.jpg"
+                  src="assets/img/portfolio/kwenta.jpg"
                   alt="..."
                 />
               </a>
               <div className="portfolio-caption">
-                <div className="portfolio-caption-heading">Waze</div>
+                <div className="portfolio-caption-heading">Kwenta</div>
                 <div className="portfolio-caption-subheading text-muted">
-                  Identity
+                  Deployment a High-Performance Web Application on AWS using
+                  Infrastructure as Code
                 </div>
               </div>
             </div>
@@ -108,7 +111,8 @@ function Portfolio() {
                   <div className="modal-body">
                     <h2 className="text-uppercase">Trading Bots</h2>
                     <p className="item-intro text-muted">
-                      Lorem ipsum dolor sit amet consectetur.
+                      Containerization, Continuous Integration and Deployment
+                      Pipeline for Web application
                     </p>
                     <img
                       className="img-fluid d-block mx-auto"
@@ -116,11 +120,12 @@ function Portfolio() {
                       alt="..."
                     />
                     <p>
-                      Use this area to describe your project. Lorem ipsum dolor
-                      sit amet, consectetur adipisicing elit. Est blanditiis
-                      dolorem culpa incidunt minus dignissimos deserunt repellat
-                      aperiam quasi sunt officia expedita beatae cupiditate,
-                      maiores repudiandae, nostrum, reiciendis facere nemo!
+                      I created a Dockerized web application and I developed and
+                      implemented a robust continuous integration and deployment
+                      pipeline, streamlining the development and deployment
+                      process. This pipeline enabled the team to deliver new
+                      features and bug fixes more efficiently and with higher
+                      quality.
                     </p>
                     <ul className="list-inline">
                       <li>
@@ -175,7 +180,7 @@ function Portfolio() {
                   <div className="modal-body">
                     <h2 className="text-uppercase">DocsGPT</h2>
                     <p className="item-intro text-muted">
-                      Lorem ipsum dolor sit amet consectetur.
+                      Dockerized Web Application Deployment with Terraform
                     </p>
                     <img
                       className="img-fluid d-block mx-auto"
@@ -183,11 +188,11 @@ function Portfolio() {
                       alt="..."
                     />
                     <p>
-                      Use this area to describe your project. Lorem ipsum dolor
-                      sit amet, consectetur adipisicing elit. Est blanditiis
-                      dolorem culpa incidunt minus dignissimos deserunt repellat
-                      aperiam quasi sunt officia expedita beatae cupiditate,
-                      maiores repudiandae, nostrum, reiciendis facere nemo!
+                      In this project, I created a Dockerized web application
+                      and deployed it using Terraform for infrastructure
+                      provisioning. I used infrastructure as code principles to
+                      define and manage the infrastructure resources required
+                      for running the web application.
                     </p>
                     <ul className="list-inline">
                       <li>
@@ -223,7 +228,7 @@ function Portfolio() {
       </div>
       <div
         className="portfolio-modal modal fade"
-        id="wazeModal"
+        id="kwentaModal"
         tabIndex="-1"
         role="dialog"
         aria-hidden="true"
@@ -237,36 +242,38 @@ function Portfolio() {
               <div className="row justify-content-center">
                 <div className="col-lg-8">
                   <div className="modal-body">
-                    <h2 className="text-uppercase">Waze</h2>
+                    <h2 className="text-uppercase">Kwenta</h2>
                     <p className="item-intro text-muted">
-                      Lorem ipsum dolor sit amet consectetur.
+                      Deployment a High-Performance Web Application on AWS using
+                      Infrastructure as Code
                     </p>
                     <img
                       className="img-fluid d-block mx-auto"
-                      src="assets/img/portfolio/waze.jpg"
+                      src="assets/img/portfolio/kwenta.jpg"
                       alt="..."
                     />
                     <p>
-                      Use this area to describe your project. Lorem ipsum dolor
-                      sit amet, consectetur adipisicing elit. Est blanditiis
-                      dolorem culpa incidunt minus dignissimos deserunt repellat
-                      aperiam quasi sunt officia expedita beatae cupiditate,
-                      maiores repudiandae, nostrum, reiciendis facere nemo!
+                      I deployed a high-performance web application on the
+                      Amazon Web Services (AWS) cloud platform using
+                      Infrastructure as Code (IaC). By leveraging cloud
+                      infrastructure and automation, I easily provisioned and
+                      manageed the required resources for the application in a
+                      scalable, reliable, and cost-effective manner.
                     </p>
                     <ul className="list-inline">
                       <li>
                         <strong>Website: </strong>
-                        <a href="https://www.waze.com/" target="_blank ">
-                          https://www.waze.com/
+                        <a href="https://kwenta.eth.limo/" target="_blank ">
+                          https://kwenta.eth.limo/
                         </a>
                       </li>
                       <li>
                         <strong>Github: </strong>
                         <a
-                          href="https://github.com/mkoloberdin/waze"
+                          href="https://github.com/Kwenta/kwenta"
                           target="_blank "
                         >
-                          https://github.com/mkoloberdin/waze
+                          https://github.com/Kwenta/kwenta
                         </a>
                       </li>
                     </ul>
